@@ -1,0 +1,20 @@
+.form-control
+{
+  text-align: center;
+  width: 500;
+}
+
+body
+{
+  background-image: url(download.jpg);
+}
+
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
